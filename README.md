@@ -69,10 +69,10 @@
   </a>
 </p>
 
-<p><h2 align="center">Stats:</h2> <br> <img align="center" margin-left="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" /></p>
+<h2 align="center">Stats:</h2> <br> <img align="center" margin-left=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" />
 
-<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rijanshrestha0&show_icons=true&locale=en" alt="rijanshrestha0" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rijanshrestha0&" alt="rijanshrestha0" />
+<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rijanshrestha0&show_icons=true&locale=en" alt="rijanshrestha0" /><br>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rijanshrestha0&" alt="rijanshrestha0" border_radius=8 />
 </a>
 
 
