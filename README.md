@@ -69,12 +69,12 @@
   </a>
 </p>
 
-<h2 align="center">Stats:</h2> <br> <img align="center" margin-left=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" />
+<h2 align="center">Stats:</h2>
+<div align=center>
+<a><img align="center" margin-left=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" /></a>
 
 <a>&nbsp;<img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=rijanshrestha0&show_icons=true&locale=en" alt="rijanshrestha0" />
   <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rijanshrestha0&" alt="rijanshrestha0" border_radius=8 />
-</a>
-
-
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
