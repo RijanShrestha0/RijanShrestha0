@@ -69,4 +69,12 @@
   </a>
 </p>
 
+<p><h2 align="center">Stats:</h2> <br> <img align="center" margin-left="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" /></p>
+
+<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rijanshrestha0&show_icons=true&locale=en" alt="rijanshrestha0" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rijanshrestha0&" alt="rijanshrestha0" />
+</a>
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
