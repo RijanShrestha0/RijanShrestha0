@@ -21,7 +21,7 @@
 </a>
 <a href="https://fb.com/rijan shrestha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rijan shrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/benz_humane__" target="blank">
+<a href="[https://instagram.com/benz_humane__](https://www.instagram.com/benzz_humane__/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benz_humane__" height="30" width="40" />
 </a>
 <a href="https://dribbble.com/rijan shrestha" target="blank">
