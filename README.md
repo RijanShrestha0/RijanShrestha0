@@ -28,7 +28,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rijan shrestha" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"> Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> </h2> 
+<!-- <h2 align="center"> Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> </h2> 
 
 <p align="center">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -64,7 +64,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
-</p>
+</p> -->
 
 <h2 align="center">Stats:</h2>
 <div align=center>
