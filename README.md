@@ -1,77 +1,68 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="300" alt="animated hello">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35">
-, I'm Rijan Shrestha</h1>
-<h3 align="center">A passionate frontend developer and designer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijanshrestha0&label=Profile%20views&color=0e75b6&style=flat" alt="rijanshrestha0" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dukey8007" target="blank"><img src="https://img.shields.io/twitter/follow/dukey8007?logo=twitter&style=for-the-badge" alt="dukey8007" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio-Build**
-
-- 🌱 I’m currently learning **React and Next**
-
-- 👯 I’m looking to collaborate on **Web-development & Web-Design**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/dukey8007" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dukey8007" height="30" width="40" />
-</a>
-<a href="https://fb.com/rijan shrestha" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rijan shrestha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/benzz_humane__/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benz_humane__" height="30" width="40" />
-</a>
-<a href="https://dribbble.com/rijan shrestha" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rijan shrestha" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a> -->
+  <!-- <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/glorffindel" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a> -->
 </p>
 
-<!-- <h2 align="center"> Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> </h2> 
 
-<p align="center">  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>
-</p> -->
+<br>
 
-<h2 align="center">Stats:</h2>
-<div align=center>
-<a><img align="center" margin-left=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=rijanshrestha0&show_icons=true&locale=en&layout=compact" alt="rijanshrestha0" /></a>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<a>&nbsp;<img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=rijanshrestha0&show_icons=true&locale=en" alt="rijanshrestha0" />
-  <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rijanshrestha0&" alt="rijanshrestha0" border_radius=8 />
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+ Hello there!, I am <em><b> Rijan Shrestha </b></em> a MERN Stack Developer with UI/UX experiences and a BSCS Student who builds user-centered, scalable web applications from concept to deployment. With a strong foundation in Figma, design systems, and product thinking, I bridge the gap between design and development to deliver seamless digital experiences.
+</p>
+
+
+<br/>
+
+<p align="center">
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at King's College </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Working as a Freelancer </b></em><br/>
+   <!-- <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/> -->
+   <!-- <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/> -->
+</p>
+
+<br/>
+<br/>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RijanShrestha0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
